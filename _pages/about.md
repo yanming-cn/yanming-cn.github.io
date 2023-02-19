@@ -68,15 +68,15 @@ Find my CV [here](https://github.com/yanming-cn/yanming-cn.github.io/files/10378
 </p>
 <h2 id="services"><a href="#services">Academic Services</a></h2>
 
-<h3 id="services-reviewer">Reviewer</a></h3>
+<h3 id="services-reviewer">Reviewer</h3>
 
-- 2023: ISSTA Artifact Evaluation Reviewer.
+- <p class="small" style="font-size:16px"> 2023: ISSTA Artifact Evaluation Reviewer.</p>
 
-<h3 id="services-co-reviewer">Co-Reviewer</a></h3>
+<h3 id="services-co-reviewer">Co-Reviewer</h3>
 
-- 2023: ESEC/FSE co-reviewer.
-- 2021: ISSTA co-reviewer, TDSC co-reviewer.
-- 2020: ISSTA Tool Demo co-reviewer, JCST  co-reviewer, COMPSAC co-reviewer, Journal of Software co-reviewer.
+- <p class="small" style="font-size:16px"> 2023: ESEC/FSE co-reviewer. </p>
+- <p class="small" style="font-size:16px"> 2021: ISSTA co-reviewer, TDSC co-reviewer. </p>
+- <p class="small" style="font-size:16px"> 2020: ISSTA Tool Demo co-reviewer, JCST co-reviewer, COMPSAC co-reviewer, Journal of Software co-reviewer. </p>
 
 
 <h2 id="talks"><a href="#talks">Talks</a></h2>
