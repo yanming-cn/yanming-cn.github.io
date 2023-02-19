@@ -69,8 +69,7 @@ Find my CV [here](https://github.com/yanming-cn/yanming-cn.github.io/files/10378
 <h2 id="services"><a href="#services">Academic Services</a></h2>
 
 <h3 id="services-reviewer">Reviewer</h3>
-
-- <p class="small" style="font-size:16px"> 2023: ISSTA Artifact Evaluation Reviewer.</p>
+&#9670 <p class="small" style="font-size:16px"> 2023: ISSTA Artifact Evaluation Reviewer.</p>
 
 <h3 id="services-co-reviewer">Co-Reviewer</h3>
 
@@ -80,12 +79,10 @@ Find my CV [here](https://github.com/yanming-cn/yanming-cn.github.io/files/10378
 
 
 <h2 id="talks"><a href="#talks">Talks</a></h2>
-
-
-
 Revisiting Deep Neural Network Test Coverage from the Test Effectiveness Perspective. [<i>Nov. 2022</i>]
-- ChinaSoft 2022 Conference Talk.
-- Virtual Event.
+
+&#9670 ChinaSoft 2022 Conference Talk. <br>
+&#9670 Virtual Event. <br>
 
 Exposing numerical bugs in deep learning via gradient back-propagation. [<i>Aug. 2021</i>]
 - ESEC/FSE 2021 Conference Talk.
