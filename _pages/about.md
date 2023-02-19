@@ -84,20 +84,20 @@ Find my CV [here](https://github.com/yanming-cn/yanming-cn.github.io/files/10378
 
 
 Revisiting Deep Neural Network Test Coverage from the Test Effectiveness Perspective. [<i>Nov. 2022</i>]
-- ChinaSoft 2022 Conference Talk
-- Virtual Event
+- ChinaSoft 2022 Conference Talk.
+- Virtual Event.
 
 Exposing numerical bugs in deep learning via gradient back-propagation. [<i>Aug. 2021</i>]
-- ESEC/FSE 2021 Conference Talk
-- Virtual Event
+- ESEC/FSE 2021 Conference Talk.
+- Virtual Event.
 
-Deep Learning Library Testing via Effective Model Generation [<i>Nov. 2020</i>]
+Deep Learning Library Testing via Effective Model Generation. [<i>Nov. 2020</i>]
 
-- ESEC/FSE 2020 Conference Talk
+- ESEC/FSE 2020 Conference Talk.
 - Virtual Event.  [\[Video\]](https://www.youtube.com/watch?v=i3tHdZWTifg)
 
 
-Survey on testing of deep neural networks [<i>Dec. 2019</i>]
+Survey on testing of deep neural networks. [<i>Dec. 2019</i>]
 
 - NASAC 2019 Conference Talk. <i>Hangzhou, China</i>
 
