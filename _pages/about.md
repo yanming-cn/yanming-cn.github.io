@@ -82,22 +82,22 @@ Find my CV [here](https://github.com/yanming-cn/yanming-cn.github.io/files/10378
 
 
 <h2 id="talks"><a href="#talks">Talks</a></h2>
-<p class="small" style="font-size:18px"> <strong> Revisiting Deep Neural Network Test Coverage from the Test Effectiveness Perspective. Nov. 2022 </strong> <br>
+<p class="small" style="font-size:16px"> <strong> Revisiting Deep Neural Network Test Coverage from the Test Effectiveness Perspective. Nov. 2022 </strong> <br>
 &#9670; ChinaSoft 2022 Conference Talk. <br>
 &#9670; Virtual Event. 
 </p>
 
-<p class="small" style="font-size:18px"> <strong> Exposing numerical bugs in deep learning via gradient back-propagation. Aug. 2021 </strong> <br>
+<p class="small" style="font-size:16px"> <strong> Exposing numerical bugs in deep learning via gradient back-propagation. Aug. 2021 </strong> <br>
 &#9670; ESEC/FSE 2021 Conference Talk. <br>
 &#9670; Virtual Event. 
 </p>
 
-<p class="small" style="font-size:18px"> <strong> Deep Learning Library Testing via Effective Model Generation. Nov. 2020 </strong> <br>
+<p class="small" style="font-size:16px"> <strong> Deep Learning Library Testing via Effective Model Generation. Nov. 2020 </strong> <br>
 &#9670; ESEC/FSE 2020 Conference Talk. <br>
 &#9670; Virtual Event. <a href="https://www.youtube.com/watch?v=i3tHdZWTifg">[Video] </a> 
 </p>
 
-<p class="small" style="font-size:18px"> <strong> Survey on testing of deep neural networks. Dec. 2019 </strong> <br>
+<p class="small" style="font-size:16px"> <strong> Survey on testing of deep neural networks. Dec. 2019 </strong> <br>
 &#9670; NASAC 2019 Conference Talk. <i>Hangzhou, China</i>  
 </p>
 
