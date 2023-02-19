@@ -24,17 +24,21 @@ Find my CV [here](https://github.com/yanming-cn/yanming-cn.github.io/files/10378
 
 ## [News](#news) 
 
- 📢 **Dec 22, 2022**: Our paper "Achieving Last-Mile Functional Coverage in Testing Chip Design Software Implementations" was accepted by ICSE 2023 SEIP track. This work was done during my internship at *Noah's Ark Lab* (Beijing). Thanks for the recognition! 
+📢 **February 19, 2023**: Our paper "Revisiting Deep Neural Network Test Coverage from the Test Effectiveness Perspective" was accepted by Journal of Software: Evolution and Process. 
 
- 📢 **July 9, 2022**: Our paper "An Empirical Study on Numerical Bugs in Deep Learning Programs" was accepted by ASE 2022 NIER track. Congratulations to Gan!
+📢 **February 16, 2023**: I have been selected as a reviewer for the ISSTA 2023 Artifact Evaluation Committee. Thanks for the recognition! 
+
+📢 **Dec 22, 2022**: Our paper "Achieving Last-Mile Functional Coverage in Testing Chip Design Software Implementations" was accepted by ICSE 2023 SEIP track. This work was done during my internship at *Noah's Ark Lab* (Beijing). Thanks for the recognition! 
+
+📢 **July 9, 2022**: Our paper "An Empirical Study on Numerical Bugs in Deep Learning Programs" was accepted by ASE 2022 NIER track. Congratulations to Gan!
  
- 📢 **June 18, 2021**: Our TOSEM paper "Practical Accuracy Estimation for Efficient Deep Neural Network Testing" was accepted as a Journal-First paper for presentation at FSE 2021. Thanks for the recognition! 
+📢 **June 18, 2021**: Our TOSEM paper "Practical Accuracy Estimation for Efficient Deep Neural Network Testing" was accepted as a Journal-First paper for presentation at FSE 2021. Thanks for the recognition! 
 
- 📢 **May 20, 2021**: Our paper "Exposing Numerical Bugs in Deep Learning via Gradient Back-propagation" was accepted by ESEC/FSE 2021. 
+**May 20, 2021**: Our paper "Exposing Numerical Bugs in Deep Learning via Gradient Back-propagation" was accepted by ESEC/FSE 2021. 
 
-📢 **May 20, 2021**: I will join *Noah's Ark Lab* (Beijing) as an intern.
+**May 20, 2021**: I will join *Noah's Ark Lab* (Beijing) as an intern.
 
-📢 **August 21, 2020**: Our paper "Deep Learning Library Testing via Effective Model Generation" won the ACM SIGSOFT Distinguished Paper Award at ESEC/FSE 2020. Thanks for the recognition! 
+**August 21, 2020**: Our paper "Deep Learning Library Testing via Effective Model Generation" won the ACM SIGSOFT Distinguished Paper Award at ESEC/FSE 2020. Thanks for the recognition! 
 
  **May 20, 2020**: Our paper "Deep Learning Library Testing via Effective Model Generation" was accepted by ESEC/FSE 2020. 
 
@@ -43,6 +47,8 @@ Find my CV [here](https://github.com/yanming-cn/yanming-cn.github.io/files/10378
  **March 26, 2020**: Our research paper "Practical Accuracy Estimation for Efficient Deep Neural Network Testing" was accepted by TOSEM. 
 
 ## [Publications](#publications)
+
+<p class="small" style="font-size:16px"><span style="color: #0b5394;  font-family: 'Georgia'; font-size: 11.5pt; vertical-align: baseline;">[JSEP]</span> <strong>Revisiting Deep Neural Network Test Coverage from the Test Effectiveness Perspective.</strong> <span style="color: #0b5394;  font-family: 'Georgia'; font-size: 11.5pt; vertical-align: baseline;">(CCF-B)</span><br> <strong>Ming Yan</strong>, Junjie Chen*, Xuejie Cao, Zhuo Wu, Yuning Kang, Zan Wang.<br> In: <i>Journal of Software: Evolution and Process, 2023, pages to appear.</i><br></p>
 
 <p class="small" style="font-size:16px"><span style="color: #0b5394;  font-family: 'Georgia'; font-size: 11.5pt; vertical-align: baseline;">[ICSE-SEIP'23]</span> <strong>Achieving Last-Mile Functional Coverage in Testing Chip Design Software Implementations.</strong> <span style="color: #0b5394;  font-family: 'Georgia'; font-size: 11.5pt; vertical-align: baseline;">(CCF-A)</span><br> <strong>Ming Yan</strong>, Junjie Chen*, Hangyu Mao, Jiajun Jiang, Jianye Hao, Xingjian Li, Zhao Tian, Zhichao Chen, Dong Li, Zhangkong Xian, Yanwei Guo, Wulong Liu, Bin Wang, Yuefeng Sun, Yongshun Cui. <br> In: <i>The 45th International Conference on Software Engineering, SEIP track</i>, May 14-20, 2023, pages to appear, Melbourne Convention and Exhibition Centre, Melbourne, Australia. <br></p>
 
@@ -62,9 +68,15 @@ Find my CV [here](https://github.com/yanming-cn/yanming-cn.github.io/files/10378
 </p>
 <h2 id="services"><a href="#services">Academic Services</a></h2>
 
-- 2022: ESEC/FSE co-reviewer, ASE co-reviewer.
+<h3 id="services-reviewer">Reviewer</a></h3>
+
+- 2023: ISSTA Artifact Evaluation Reviewer.
+
+<h3 id="services-co-reviewer">Co-Reviewer</a></h3>
+
+- 2023: ESEC/FSE co-reviewer.
 - 2021: ISSTA co-reviewer, TDSC co-reviewer.
-- 2020:  ISSTA Tool Demo co-reviewer, JCST  co-reviewer, COMPSAC co-reviewer, Journal of Software co-reviewer.
+- 2020: ISSTA Tool Demo co-reviewer, JCST  co-reviewer, COMPSAC co-reviewer, Journal of Software co-reviewer.
 
 <h2 id="awards"><a href="#awards">Honors & Awards</a></h2>
 
