@@ -66,40 +66,40 @@ Find my CV [here](https://github.com/yanming-cn/yanming-cn.github.io/files/10378
 &dagger; : refers to the first student author. <br>
 * : refers to the corresponding author. <br>
 </p>
+
+
 <h2 id="services"><a href="#services">Academic Services</a></h2>
 
 <h3 id="services-reviewer">Reviewer</h3>
 <p class="small" style="font-size:16px"> &#9670; 2023: ISSTA Artifact Evaluation Reviewer.</p>
 
 <h3 id="services-co-reviewer">Co-Reviewer</h3>
-
-<p class="small" style="font-size:16px"> &#9670; 2023: ESEC/FSE co-reviewer. </p>
-<p class="small" style="font-size:16px"> &#9670; 2021: ISSTA co-reviewer, TDSC co-reviewer. </p>
-<p class="small" style="font-size:16px"> &#9670; 2020: ISSTA Tool Demo co-reviewer, JCST co-reviewer, COMPSAC co-reviewer, Journal of Software co-reviewer. </p>
+<p class="small" style="font-size:16px"> 
+&#9670; 2023: ESEC/FSE co-reviewer. <br>
+&#9670; 2021: ISSTA co-reviewer, TDSC co-reviewer.  <br>
+&#9670; 2020: ISSTA Tool Demo co-reviewer, JCST co-reviewer, COMPSAC co-reviewer, Journal of Software co-reviewer. <br>
+</p>
 
 
 <h2 id="talks"><a href="#talks">Talks</a></h2>
-<p class="small" style="font-size:16px"> Revisiting Deep Neural Network Test Coverage from the Test Effectiveness Perspective. [<i>Nov. 2022</i>] </p>
+<p class="small" style="font-size:18px"> <strong> Revisiting Deep Neural Network Test Coverage from the Test Effectiveness Perspective. Nov. 2022 </strong> <br>
+&#9670; ChinaSoft 2022 Conference Talk. <br>
+&#9670; Virtual Event. 
+</p>
 
-<p class="small" style="font-size:16px"> &#9670; ChinaSoft 2022 Conference Talk. </p>
-<p class="small" style="font-size:16px"> &#9670; Virtual Event. </p>
+<p class="small" style="font-size:18px"> <strong> Exposing numerical bugs in deep learning via gradient back-propagation. Aug. 2021 </strong> <br>
+&#9670; ESEC/FSE 2021 Conference Talk. <br>
+&#9670; Virtual Event. 
+</p>
 
-Exposing numerical bugs in deep learning via gradient back-propagation. [<i>Aug. 2021</i>]
-- ESEC/FSE 2021 Conference Talk.
-- Virtual Event.
+<p class="small" style="font-size:18px"> <strong> Deep Learning Library Testing via Effective Model Generation. Nov. 2020 </strong> <br>
+&#9670; ESEC/FSE 2020 Conference Talk. <br>
+&#9670; Virtual Event. <a href="https://www.youtube.com/watch?v=i3tHdZWTifg">[Video] </a> 
+</p>
 
-Deep Learning Library Testing via Effective Model Generation. [<i>Nov. 2020</i>]
-
-- ESEC/FSE 2020 Conference Talk.
-- Virtual Event.  [\[Video\]](https://www.youtube.com/watch?v=i3tHdZWTifg)
-
-
-Survey on testing of deep neural networks. [<i>Dec. 2019</i>]
-
-- NASAC 2019 Conference Talk. <i>Hangzhou, China</i>
-
-
-
+<p class="small" style="font-size:18px"> <strong> Survey on testing of deep neural networks. Dec. 2019 </strong> <br>
+&#9670; NASAC 2019 Conference Talk. <i>Hangzhou, China</i>  
+</p>
 
 
 
