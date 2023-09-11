@@ -16,7 +16,8 @@ redirect_from:
 
 I am Ming Yan, a SE Ph.D. candidate at [College of Intelligence and Computing, Tianjin University](http://cic.tju.edu.cn/english/home.htm), supervised by Prof. [Junjie Chen](https://sites.google.com/site/junjiechen08). I received my master‘s degree in 2021 and bachelor's degree in 2018 both from Tianjin University supervised by Prof. [Zan Wang](https://tjusail.github.io/people/wangzan.html). My research interests lie primarily in **DL system quality assurance** and **software testing**. 
 
-Find my CV [here](https://github.com/yanming-cn/yanming-cn.github.io/files/10378510/Ming_s_Resume.pdf).<br>
+Find my CV [here](https://github.com/yanming-cn/yanming-cn.github.io/files/12572982/Ming_s_Resume.pdf).
+<br>
 
 <p class="small" style="font-size:16px">
 <font face="Times New Roman" style="font-style:italic">Email: yanming[at]tju[DOT]edu[DOT]cn</font> <br> <font face="Times New Roman" style="font-style:italic">Address:  Building #55,  College of Intelligence and Computing, Tianjin University Beiyangyuan Campus, No. 135 Yaguan Road, Jinnan District, Tianjin, 300350</font>
@@ -79,7 +80,8 @@ Find my CV [here](https://github.com/yanming-cn/yanming-cn.github.io/files/10378
 
 <h3 id="services-co-reviewer">Co-Reviewer</h3>
 <p class="small" style="font-size:16px"> 
-&#9670; 2023: ESEC/FSE co-reviewer, ICSE 2024 co-reviewer <br>
+&#9670; 2023: ESEC/FSE co-reviewer, ASE co-reviewer, ICSE 2024 co-reviewer <br>
+&#9670; 2022: ESEC/FSE co-reviewer, ASE co-reviewer <br>
 &#9670; 2021: ISSTA co-reviewer, TDSC co-reviewer.  <br>
 &#9670; 2020: ISSTA Tool Demo co-reviewer, JCST co-reviewer, COMPSAC co-reviewer, Journal of Software co-reviewer. <br>
 </p>
