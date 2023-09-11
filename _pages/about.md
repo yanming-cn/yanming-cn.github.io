@@ -24,15 +24,17 @@ Find my CV [here](https://github.com/yanming-cn/yanming-cn.github.io/files/10378
 
 ## [News](#news) 
 
+📢 **February 19, 2023**: Our paper "Test Case Selection for Deep Neural Networks via Data Mutation" was accepted by Journal of Software. Congratulations to Xuejie!
+
 📢 **February 19, 2023**: Our paper "Revisiting Deep Neural Network Test Coverage from the Test Effectiveness Perspective" was accepted by Journal of Software: Evolution and Process. 
 
 📢 **February 16, 2023**: I have been selected as a reviewer for the ISSTA 2023 Artifact Evaluation Committee. Thanks for the recognition! 
 
-📢 **Dec 22, 2022**: Our paper "Achieving Last-Mile Functional Coverage in Testing Chip Design Software Implementations" was accepted by ICSE 2023 SEIP track. This work was done during my internship at *Noah's Ark Lab* (Beijing). Thanks for the recognition! 
+**Dec 22, 2022**: Our paper "Achieving Last-Mile Functional Coverage in Testing Chip Design Software Implementations" was accepted by ICSE 2023 SEIP track. This work was done during my internship at *Noah's Ark Lab* (Beijing). Thanks for the recognition! 
 
-📢 **July 9, 2022**: Our paper "An Empirical Study on Numerical Bugs in Deep Learning Programs" was accepted by ASE 2022 NIER track. Congratulations to Gan!
+**July 9, 2022**: Our paper "An Empirical Study on Numerical Bugs in Deep Learning Programs" was accepted by ASE 2022 NIER track. Congratulations to Gan!
  
-📢 **June 18, 2021**: Our TOSEM paper "Practical Accuracy Estimation for Efficient Deep Neural Network Testing" was accepted as a Journal-First paper for presentation at FSE 2021. Thanks for the recognition! 
+**June 18, 2021**: Our TOSEM paper "Practical Accuracy Estimation for Efficient Deep Neural Network Testing" was accepted as a Journal-First paper for presentation at FSE 2021. Thanks for the recognition! 
 
 **May 20, 2021**: Our paper "Exposing Numerical Bugs in Deep Learning via Gradient Back-propagation" was accepted by ESEC/FSE 2021. 
 
@@ -47,6 +49,8 @@ Find my CV [here](https://github.com/yanming-cn/yanming-cn.github.io/files/10378
  **March 26, 2020**: Our research paper "Practical Accuracy Estimation for Efficient Deep Neural Network Testing" was accepted by TOSEM. 
 
 ## [Publications](#publications)
+
+<p class="small" style="font-size:16px"><span style="color: #0b5394;  font-family: 'Georgia'; font-size: 11.5pt; vertical-align: baseline;">[Journal of Software]</span> <strong>Test Case Selection for Deep Neural Networks via Data Mutation.</strong> <span style="color: #0b5394;  font-family: 'Georgia'; font-size: 11.5pt; vertical-align: baseline;">(CCF-B)</span><br> Cao Xue-Jie, Chen Jun-Jie*, <strong>Yan Ming</strong>, You Han-Mo, Wu Zhuo, Wang Zan.<br> In: <i>Journal of Software (in Chinese), 2023, to appear.</i><br></p>
 
 <p class="small" style="font-size:16px"><span style="color: #0b5394;  font-family: 'Georgia'; font-size: 11.5pt; vertical-align: baseline;">[JSEP]</span> <strong>Revisiting Deep Neural Network Test Coverage from the Test Effectiveness Perspective.</strong> <span style="color: #0b5394;  font-family: 'Georgia'; font-size: 11.5pt; vertical-align: baseline;">(CCF-B)</span><br> <strong>Ming Yan</strong>, Junjie Chen*, Xuejie Cao, Zhuo Wu, Yuning Kang, Zan Wang.<br> In: <i>Journal of Software: Evolution and Process, 2023, pages to appear.</i><br></p>
 
@@ -75,13 +79,18 @@ Find my CV [here](https://github.com/yanming-cn/yanming-cn.github.io/files/10378
 
 <h3 id="services-co-reviewer">Co-Reviewer</h3>
 <p class="small" style="font-size:16px"> 
-&#9670; 2023: ESEC/FSE co-reviewer. <br>
+&#9670; 2023: ESEC/FSE co-reviewer, ICSE 2024 co-reviewer <br>
 &#9670; 2021: ISSTA co-reviewer, TDSC co-reviewer.  <br>
 &#9670; 2020: ISSTA Tool Demo co-reviewer, JCST co-reviewer, COMPSAC co-reviewer, Journal of Software co-reviewer. <br>
 </p>
 
 
 <h2 id="talks"><a href="#talks">Talks</a></h2>
+<p class="small" style="font-size:16px"> <strong> Achieving Last-Mile Functional Coverage in Testing Chip Design Software Implementations. May. 2023 </strong> <br>
+&#9670; ICSE 2023 Conference Talk. <br>
+&#9670; Melbourne, Australia. 
+</p>
+
 <p class="small" style="font-size:16px"> <strong> Revisiting Deep Neural Network Test Coverage from the Test Effectiveness Perspective. Nov. 2022 </strong> <br>
 &#9670; ChinaSoft 2022 Conference Talk. <br>
 &#9670; Virtual Event. 
