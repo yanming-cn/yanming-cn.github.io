@@ -16,7 +16,8 @@ redirect_from:
 
 I am Ming Yan, a SE Ph.D. candidate at [College of Intelligence and Computing, Tianjin University](http://cic.tju.edu.cn/english/home.htm), supervised by Prof. [Junjie Chen](https://sites.google.com/site/junjiechen08). I received my master‘s degree in 2021 and bachelor's degree in 2018 both from Tianjin University supervised by Prof. [Zan Wang](https://tjusail.github.io/people/wangzan.html). My research interests lie primarily in **DL system quality assurance** and **software testing**. 
 
-Find my CV [here](https://github.com/yanming-cn/yanming-cn.github.io/files/12572982/Ming_s_Resume.pdf).
+Find my CV [here](https://github.com/yanming-cn/yanming-cn.github.io/files/12713037/Ming_s_Resume.pdf).
+
 <br>
 
 <p class="small" style="font-size:16px">
@@ -25,7 +26,9 @@ Find my CV [here](https://github.com/yanming-cn/yanming-cn.github.io/files/12572
 
 ## [News](#news) 
 
-📢 **February 19, 2023**: Our paper "Test Case Selection for Deep Neural Networks via Data Mutation" was accepted by Journal of Software. Congratulations to Xuejie!
+📢 **July 25, 2023**: Our paper "Stratified random sampling for neural network test input selection" was accepted by IST. Congrats to Zhuo!
+
+📢 **July 25, 2023**: Our paper "Test Case Selection for Deep Neural Networks via Data Mutation" was accepted by Journal of Software. Congratulations to Xuejie!
 
 📢 **February 19, 2023**: Our paper "Revisiting Deep Neural Network Test Coverage from the Test Effectiveness Perspective" was accepted by Journal of Software: Evolution and Process. 
 
@@ -51,9 +54,11 @@ Find my CV [here](https://github.com/yanming-cn/yanming-cn.github.io/files/12572
 
 ## [Publications](#publications)
 
-<p class="small" style="font-size:16px"><span style="color: #0b5394;  font-family: 'Georgia'; font-size: 11.5pt; vertical-align: baseline;">[Journal of Software]</span> <strong>Test Case Selection for Deep Neural Networks via Data Mutation.</strong> <span style="color: #0b5394;  font-family: 'Georgia'; font-size: 11.5pt; vertical-align: baseline;">(CCF-B)</span><br> Cao Xue-Jie, Chen Jun-Jie*, <strong>Yan Ming</strong>, You Han-Mo, Wu Zhuo, Wang Zan.<br> In: <i>Journal of Software (in Chinese), 2023, to appear.</i><br></p>
+<p class="small" style="font-size:16px"><span style="color: #0b5394;  font-family: 'Georgia'; font-size: 11.5pt; vertical-align: baseline;">[IST'23]</span> <strong>Stratified random sampling for neural network test input selection.</strong> <span style="color: #0b5394;  font-family: 'Georgia'; font-size: 11.5pt; vertical-align: baseline;">(CCF-B)</span><br> Zhuo Wu, Zan Wang, Junjie Chen, Hanmo You, <strong>Ming Yan</strong>, Lanjun Wang*.<br> In: <i>Information and Software Technology, 2023, to appear.</i><br></p>
 
-<p class="small" style="font-size:16px"><span style="color: #0b5394;  font-family: 'Georgia'; font-size: 11.5pt; vertical-align: baseline;">[JSEP]</span> <strong>Revisiting Deep Neural Network Test Coverage from the Test Effectiveness Perspective.</strong> <span style="color: #0b5394;  font-family: 'Georgia'; font-size: 11.5pt; vertical-align: baseline;">(CCF-B)</span><br> <strong>Ming Yan</strong>, Junjie Chen*, Xuejie Cao, Zhuo Wu, Yuning Kang, Zan Wang.<br> In: <i>Journal of Software: Evolution and Process, 2023, pages to appear.</i><br></p>
+<p class="small" style="font-size:16px"><span style="color: #0b5394;  font-family: 'Georgia'; font-size: 11.5pt; vertical-align: baseline;">[Journal of Software'23]</span> <strong>Test Case Selection for Deep Neural Networks via Data Mutation.</strong> <span style="color: #0b5394;  font-family: 'Georgia'; font-size: 11.5pt; vertical-align: baseline;">(CCF-B)</span><br> Xuejie Cao, Junjie Chen*, <strong>Ming Yan</strong>, Hanmo You , Zhuo Wu, Zan Wang.<br> In: <i>Journal of Software (in Chinese), 2023, to appear.</i><br></p>
+
+<p class="small" style="font-size:16px"><span style="color: #0b5394;  font-family: 'Georgia'; font-size: 11.5pt; vertical-align: baseline;">[JSEP'23]</span> <strong>Revisiting Deep Neural Network Test Coverage from the Test Effectiveness Perspective.</strong> <span style="color: #0b5394;  font-family: 'Georgia'; font-size: 11.5pt; vertical-align: baseline;">(CCF-B)</span><br> <strong>Ming Yan</strong>, Junjie Chen*, Xuejie Cao, Zhuo Wu, Yuning Kang, Zan Wang.<br> In: <i>Journal of Software: Evolution and Process, 2023, pages to appear.</i><br></p>
 
 <p class="small" style="font-size:16px"><span style="color: #0b5394;  font-family: 'Georgia'; font-size: 11.5pt; vertical-align: baseline;">[ICSE-SEIP'23]</span> <strong>Achieving Last-Mile Functional Coverage in Testing Chip Design Software Implementations.</strong> <span style="color: #0b5394;  font-family: 'Georgia'; font-size: 11.5pt; vertical-align: baseline;">(CCF-A)</span><br> <strong>Ming Yan</strong>, Junjie Chen*, Hangyu Mao, Jiajun Jiang, Jianye Hao, Xingjian Li, Zhao Tian, Zhichao Chen, Dong Li, Zhangkong Xian, Yanwei Guo, Wulong Liu, Bin Wang, Yuefeng Sun, Yongshun Cui. <br> In: <i>The 45th International Conference on Software Engineering, SEIP track</i>, May 14-20, 2023, pages to appear, Melbourne Convention and Exhibition Centre, Melbourne, Australia. <br></p>
 
@@ -63,9 +68,9 @@ Find my CV [here](https://github.com/yanming-cn/yanming-cn.github.io/files/12572
 
 <p class="small" style="font-size:16px"><span style="color: #0b5394;  font-family: 'Georgia'; font-size: 11.5pt; vertical-align: baseline;">[FSE'20]</span> <strong>Deep Learning Library Testing via Effective Model Generation.</strong> <span style="color: #0b5394;  font-family: 'Georgia'; font-size: 11.5pt; vertical-align: baseline;">(CCF-A)</span><br> Zan Wang, <strong>Ming Yan</strong>&dagger;, Junjie Chen*, Shuang Liu, Dongdi Zhang.<br> In: <i>The 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering</i>, November 8-13, 2020, 788-799, Sacramento, California, United States<br> <span style='font-size:16px;'>&#127942;</span> <font color="red" style="font-style:bold"><strong>ACM SIGSOFT Distinguished Paper Award</strong> </font><br></p>
 
-<p class="small" style="font-size:16px"><span style="color: #0b5394;  font-family: 'Georgia'; font-size: 11.5pt; vertical-align: baseline;">[Journal of Software]</span> <strong>Survey on testing of deep neural networks.</strong> <span style="color: #0b5394;  font-family: 'Georgia'; font-size: 11.5pt; vertical-align: baseline;">(CCF-B)</span><br> Zan Wang, <strong>Ming Yan</strong>&dagger;, Shuang Liu*, Junjie Chen, Dongdi Zhang, Zhuo Wu, Xiang Chen.<br> In: <i>Journal of Software, 2020,31(5):1255−1275 (in Chinese).</i><br></p>
+<p class="small" style="font-size:16px"><span style="color: #0b5394;  font-family: 'Georgia'; font-size: 11.5pt; vertical-align: baseline;">[Journal of Software'20]</span> <strong>Survey on testing of deep neural networks.</strong> <span style="color: #0b5394;  font-family: 'Georgia'; font-size: 11.5pt; vertical-align: baseline;">(CCF-B)</span><br> Zan Wang, <strong>Ming Yan</strong>&dagger;, Shuang Liu*, Junjie Chen, Dongdi Zhang, Zhuo Wu, Xiang Chen.<br> In: <i>Journal of Software, 2020,31(5):1255−1275 (in Chinese).</i><br></p>
 
-<p class="small" style="font-size:16px"> <span style="color: #0b5394;  font-family: 'Georgia'; font-size: 11.5pt; vertical-align: baseline;">[TOSEM]</span><strong> Practical Accuracy Estimation for Efficient Deep Neural Network Testing.</strong><span style="color: #0b5394;  font-family: 'Georgia'; font-size: 11.5pt; vertical-align: baseline;">(CCF-A)</span><br>Junjie Chen, Zhuo Wu, Zan Wang, Hanmo You, Lingming Zhang, <strong>Ming Yan</strong>.<br> In: <i>ACM Transactions on Software Engineering and Methodology (TOSEM)</i>,2020, 29(4): 1-35., (<strong>Selected for ESEC/FSE 2021 Journal-First Presentation</strong>)<br></p>
+<p class="small" style="font-size:16px"> <span style="color: #0b5394;  font-family: 'Georgia'; font-size: 11.5pt; vertical-align: baseline;">[TOSEM'20]</span><strong> Practical Accuracy Estimation for Efficient Deep Neural Network Testing.</strong><span style="color: #0b5394;  font-family: 'Georgia'; font-size: 11.5pt; vertical-align: baseline;">(CCF-A)</span><br>Junjie Chen, Zhuo Wu, Zan Wang, Hanmo You, Lingming Zhang, <strong>Ming Yan</strong>.<br> In: <i>ACM Transactions on Software Engineering and Methodology (TOSEM)</i>,2020, 29(4): 1-35., (<strong>Selected for ESEC/FSE 2021 Journal-First Presentation</strong>)<br></p>
 
 <p class="small">
 &dagger; : refers to the first student author. <br>
@@ -76,7 +81,7 @@ Find my CV [here](https://github.com/yanming-cn/yanming-cn.github.io/files/12572
 <h2 id="services"><a href="#services">Academic Services</a></h2>
 
 <h3 id="services-reviewer">Reviewer</h3>
-<p class="small" style="font-size:16px"> &#9670; 2023: ISSTA Artifact Evaluation Reviewer.</p>
+<p class="small" style="font-size:16px"> &#9670; <strong>2023: ISSTA Artifact Evaluation Reviewer.</strong></p>
 
 <h3 id="services-co-reviewer">Co-Reviewer</h3>
 <p class="small" style="font-size:16px"> 
