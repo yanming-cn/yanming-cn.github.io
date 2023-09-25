@@ -26,7 +26,7 @@ Find my CV [here](https://github.com/yanming-cn/yanming-cn.github.io/files/12713
 
 ## [News](#news) 
 
-📢 **July 25, 2023**: Our paper "Stratified random sampling for neural network test input selection" was accepted by IST. Congrats to Zhuo!
+📢 **September 8, 2023**: Our paper "Stratified random sampling for neural network test input selection" was accepted by IST. Congrats to Zhuo!
 
 📢 **July 25, 2023**: Our paper "Test Case Selection for Deep Neural Networks via Data Mutation" was accepted by Journal of Software. Congratulations to Xuejie!
 
