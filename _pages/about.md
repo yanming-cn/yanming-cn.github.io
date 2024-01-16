@@ -16,8 +16,7 @@ redirect_from:
 
 I am Ming Yan, a SE Ph.D. candidate at [College of Intelligence and Computing, Tianjin University](http://cic.tju.edu.cn/english/home.htm), supervised by Prof. [Junjie Chen](https://sites.google.com/site/junjiechen08). I received my master‘s degree in 2021 and bachelor's degree in 2018 both from Tianjin University supervised by Prof. [Zan Wang](https://tjusail.github.io/people/wangzan.html). My research interests lie primarily in **DL system quality assurance** and **software testing**. 
 
-Find my [CV (in English)](https://github.com/yanming-cn/yanming-cn.github.io/files/13160650/Ming_s_Resume-en.pdf) | [简历（中文）](https://github.com/yanming-cn/yanming-cn.github.io/files/13162445/resume-zh-cn.pdf)
-.
+Find my [CV (in English)](https://github.com/yanming-cn/yanming-cn.github.io/files/13944773/Ming_s_Resume.pdf) | [简历（中文）](https://github.com/yanming-cn/yanming-cn.github.io/files/13944771/_.pdf).
 
 
 <br>
@@ -28,33 +27,37 @@ Find my [CV (in English)](https://github.com/yanming-cn/yanming-cn.github.io/fil
 
 ## [News](#news) 
 
+📢 **Jan 6, 2024**: I have been selected as a member of the ECOOP 2024 Artifact Evaluation Committee. Thanks for the recognition! 
+
+📢 **Dec 3, 2023**: I have been selected as a member of the CCF ChinaSoft (2023) Outstanding Ph.D. Student Forum! 
+
 📢 **Oct 20, 2023**: I received the Outstanding Contribution Award from the Huawei-Tianjin University Artificial Intelligence Innovation Lab for the deployment of the LMT technique in six Huawei chip design modules. Thanks for the recognition!
 
-📢 **September 8, 2023**: Our paper "Stratified random sampling for neural network test input selection" was accepted by IST. Congrats to Zhuo!
+📢 **Sep 8, 2023**: Our paper "Stratified random sampling for neural network test input selection" was accepted by IST. Congrats to Zhuo!
 
-📢 **July 25, 2023**: Our paper "Test Case Selection for Deep Neural Networks via Data Mutation" was accepted by Journal of Software. Congratulations to Xuejie!
+📢 **Jul 25, 2023**: Our paper "Test Case Selection for Deep Neural Networks via Data Mutation" was accepted by Journal of Software. Congratulations to Xuejie!
 
-📢 **February 19, 2023**: Our paper "Revisiting Deep Neural Network Test Coverage from the Test Effectiveness Perspective" was accepted by Journal of Software: Evolution and Process. 
+**Feb 19, 2023**: Our paper "Revisiting Deep Neural Network Test Coverage from the Test Effectiveness Perspective" was accepted by Journal of Software: Evolution and Process. 
 
-📢 **February 16, 2023**: I have been selected as a reviewer for the ISSTA 2023 Artifact Evaluation Committee. Thanks for the recognition! 
+**Feb 16, 2023**: I have been selected as a reviewer for the ISSTA 2023 Artifact Evaluation Committee. Thanks for the recognition! 
 
 **Dec 22, 2022**: Our paper "Achieving Last-Mile Functional Coverage in Testing Chip Design Software Implementations" was accepted by ICSE 2023 SEIP track. This work was done during my internship at *Noah's Ark Lab* (Beijing). Thanks for the recognition! 
 
-**July 9, 2022**: Our paper "An Empirical Study on Numerical Bugs in Deep Learning Programs" was accepted by ASE 2022 NIER track. Congratulations to Gan!
+**Jul 9, 2022**: Our paper "An Empirical Study on Numerical Bugs in Deep Learning Programs" was accepted by ASE 2022 NIER track. Congratulations to Gan!
  
-**June 18, 2021**: Our TOSEM paper "Practical Accuracy Estimation for Efficient Deep Neural Network Testing" was accepted as a Journal-First paper for presentation at FSE 2021. Thanks for the recognition! 
+**Jun 18, 2021**: Our TOSEM paper "Practical Accuracy Estimation for Efficient Deep Neural Network Testing" was accepted as a Journal-First paper for presentation at FSE 2021. Thanks for the recognition! 
 
 **May 20, 2021**: Our paper "Exposing Numerical Bugs in Deep Learning via Gradient Back-propagation" was accepted by ESEC/FSE 2021. 
 
 **May 20, 2021**: I will join *Noah's Ark Lab* (Beijing) as an intern.
 
-**August 21, 2020**: Our paper "Deep Learning Library Testing via Effective Model Generation" won the ACM SIGSOFT Distinguished Paper Award at ESEC/FSE 2020. Thanks for the recognition! 
+**Aug 21, 2020**: Our paper "Deep Learning Library Testing via Effective Model Generation" won the ACM SIGSOFT Distinguished Paper Award at ESEC/FSE 2020. Thanks for the recognition! 
 
- **May 20, 2020**: Our paper "Deep Learning Library Testing via Effective Model Generation" was accepted by ESEC/FSE 2020. 
+**May 20, 2020**: Our paper "Deep Learning Library Testing via Effective Model Generation" was accepted by ESEC/FSE 2020. 
 
- **May 1, 2020**: Our paper "Survey on testing of deep neural networks" was published in Journal of Software.
+**May 1, 2020**: Our paper "Survey on testing of deep neural networks" was published in Journal of Software.
 
- **March 26, 2020**: Our research paper "Practical Accuracy Estimation for Efficient Deep Neural Network Testing" was accepted by TOSEM. 
+**March 26, 2020**: Our research paper "Practical Accuracy Estimation for Efficient Deep Neural Network Testing" was accepted by TOSEM. 
 
 ## [Publications](#publications)
 
@@ -85,11 +88,13 @@ Find my [CV (in English)](https://github.com/yanming-cn/yanming-cn.github.io/fil
 <h2 id="services"><a href="#services">Academic Services</a></h2>
 
 <h3 id="services-reviewer">Reviewer</h3>
-<p class="small" style="font-size:16px"> &#9670; <strong>2023: ISSTA Artifact Evaluation Reviewer.</strong></p>
+<p class="small" style="font-size:16px"> &#9670; <strong>2024: ECOOP Artifact Evaluation Committee </strong></p>
+<p class="small" style="font-size:16px"> &#9670; <strong>2023: ISSTA Artifact Evaluation Committee </strong></p>
 
 <h3 id="services-co-reviewer">Co-Reviewer</h3>
 <p class="small" style="font-size:16px"> 
-&#9670; 2023: ESEC/FSE co-reviewer, ASE co-reviewer, ICSE 2024 co-reviewer <br>
+&#9670; 2024: ISSTA co-reviewer <br>
+&#9670; 2023: ESEC/FSE co-reviewer, ASE co-reviewer, ICSE(2024) co-reviewer <br>
 &#9670; 2022: ESEC/FSE co-reviewer, ASE co-reviewer <br>
 &#9670; 2021: ISSTA co-reviewer, TDSC co-reviewer.  <br>
 &#9670; 2020: ISSTA Tool Demo co-reviewer, JCST co-reviewer, COMPSAC co-reviewer, Journal of Software co-reviewer. <br>
@@ -126,6 +131,7 @@ Find my [CV (in English)](https://github.com/yanming-cn/yanming-cn.github.io/fil
 
 <h2 id="awards"><a href="#awards">Honors & Awards</a></h2>
 
+- 2023: Outstanding Ph.D Student Forum, CCF ChinaSoft
 - 2023: Huawei: Outstanding Contribution Award, Huawei & Tianjin University
 - 2022: CIE Outstanding Master Dissertation Award, Chinese Institute of Electronics
 - 2021: Outstanding Graduate Students, Tianjin University (master's degree)
