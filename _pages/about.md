@@ -141,6 +141,4 @@ Find my [CV (in English)](https://github.com/yanming-cn/yanming-cn.github.io/fil
 - 2020: ACM SIGSOFT Distinguished Paper Award
 - 2018: Outstanding Graduate Students, Tianjin University (bachelor's degree)
 
-
-</br>
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=BYbZCJbPYyqBessFSSa6--8U8a60cLMjUQTt32MV58A"></script>
+<a href="https://clustrmaps.com/site/1byrd"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=BYbZCJbPYyqBessFSSa6--8U8a60cLMjUQTt32MV58A&cl=ffffff" /></a>
