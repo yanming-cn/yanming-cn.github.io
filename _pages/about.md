@@ -14,9 +14,9 @@ redirect_from:
 
 👋Welcome！
 
-I am Ming Yan, a SE Ph.D. candidate at [College of Intelligence and Computing, Tianjin University](http://cic.tju.edu.cn/english/home.htm), supervised by Prof. [Junjie Chen](https://sites.google.com/site/junjiechen08). I received my master‘s degree in 2021 and bachelor's degree in 2018 both from Tianjin University supervised by Prof. [Zan Wang](https://tjusail.github.io/people/wangzan.html). My research interests lie primarily in **DL system quality assurance** and **software testing**. 
+I am Ming Yan, a SE Ph.D. candidate at [College of Intelligence and Computing, Tianjin University](http://cic.tju.edu.cn/english/home.htm), supervised by Prof. [Junjie Chen](https://sites.google.com/site/junjiechen08). I received my master's degree in 2021 and bachelor's degree in 2018 both from Tianjin University supervised by Prof. [Zan Wang](https://tjusail.github.io/people/wangzan.html). My research interests lie primarily in **DL system quality assurance** and **software testing**. 
 
-Find my [CV (in English)](https://github.com/yanming-cn/yanming-cn.github.io/files/13944773/Ming_s_Resume.pdf) | [简历（中文）](https://github.com/yanming-cn/yanming-cn.github.io/files/13944771/_.pdf).
+Find my [CV (in English)](https://github.com/yanming-cn/yanming-cn.github.io/files/13944773/Ming_s_Resume.pdf) \| [简历（中文）](https://github.com/yanming-cn/yanming-cn.github.io/files/14901304/_.pdf).
 
 
 <br>
@@ -131,6 +131,7 @@ Find my [CV (in English)](https://github.com/yanming-cn/yanming-cn.github.io/fil
 
 <h2 id="awards"><a href="#awards">Honors & Awards</a></h2>
 
+- 2024: Huawei Scholarship, Huawei
 - 2023: Outstanding Ph.D Student Forum, CCF ChinaSoft
 - 2023: Huawei: Outstanding Contribution Award, Huawei & Tianjin University
 - 2022: CIE Outstanding Master Dissertation Award, Chinese Institute of Electronics
