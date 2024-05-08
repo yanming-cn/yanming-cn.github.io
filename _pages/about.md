@@ -17,7 +17,8 @@ redirect_from:
 I am Ming Yan, a SE Ph.D. candidate at [College of Intelligence and Computing, Tianjin University](http://cic.tju.edu.cn/english/home.htm), supervised by Prof. [Junjie Chen](https://sites.google.com/site/junjiechen08). I received my master's degree in 2021 and bachelor's degree in 2018 both from Tianjin University supervised by Prof. [Zan Wang](https://tjusail.github.io/people/wangzan.html). My research interests lie primarily in **DL system quality assurance** and **software testing**. 
 
 Find my [CV (in English)](https://github.com/yanming-cn/yanming-cn.github.io/files/14918571/Ming_s_Resume.pdf)
- \| [简历（中文）](https://github.com/yanming-cn/yanming-cn.github.io/files/14994070/_.pdf)
+ \| [简历（中文）](https://github.com/yanming-cn/yanming-cn.github.io/files/15243516/_.pdf)
+
 
 
 
