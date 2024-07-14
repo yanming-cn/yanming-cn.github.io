@@ -16,11 +16,10 @@ redirect_from:
 
 I am Ming Yan, a SE Ph.D. candidate at [College of Intelligence and Computing, Tianjin University](http://cic.tju.edu.cn/english/home.htm), supervised by Prof. [Junjie Chen](https://sites.google.com/site/junjiechen08). I received my master's degree in 2021 and bachelor's degree in 2018 both from Tianjin University supervised by Prof. [Zan Wang](https://tjusail.github.io/people/wangzan.html). My research interests lie primarily in **DL system quality assurance** and **software testing**. 
 
+📢 <font color="red" style="font-style:bold"><strong>I anticipate earning my Ph.D. by July 2025 and am actively seeking opportunities in academia or industry. Please feel free to contact me.</strong> </font>
+
 Find my [CV (in English)](https://github.com/yanming-cn/yanming-cn.github.io/files/14918571/Ming_s_Resume.pdf)
  \| [简历（中文）](https://github.com/yanming-cn/yanming-cn.github.io/files/15243516/_.pdf)
-
-
-
 
 
 <br>
@@ -31,6 +30,8 @@ Find my [CV (in English)](https://github.com/yanming-cn/yanming-cn.github.io/fil
 
 ## [News](#news) 
 
+📢 **Jun 9, 2024**: I have been selected as a member of the ISSRE 2024 Artifact Evaluation Committee. Thanks for the recognition! 
+
 📢 **Jan 6, 2024**: I have been selected as a member of the ECOOP 2024 Artifact Evaluation Committee. Thanks for the recognition! 
 
 📢 **Dec 3, 2023**: I have been selected as a member of the CCF ChinaSoft (2023) Outstanding Ph.D. Student Forum! 
@@ -39,7 +40,7 @@ Find my [CV (in English)](https://github.com/yanming-cn/yanming-cn.github.io/fil
 
 📢 **Sep 8, 2023**: Our paper "Stratified random sampling for neural network test input selection" was accepted by IST. Congrats to Zhuo!
 
-📢 **Jul 25, 2023**: Our paper "Test Case Selection for Deep Neural Networks via Data Mutation" was accepted by Journal of Software. Congratulations to Xuejie!
+**Jul 25, 2023**: Our paper "Test Case Selection for Deep Neural Networks via Data Mutation" was accepted by Journal of Software. Congratulations to Xuejie!
 
 **Feb 19, 2023**: Our paper "Revisiting Deep Neural Network Test Coverage from the Test Effectiveness Perspective" was accepted by Journal of Software: Evolution and Process. 
 
@@ -92,6 +93,7 @@ Find my [CV (in English)](https://github.com/yanming-cn/yanming-cn.github.io/fil
 <h2 id="services"><a href="#services">Academic Services</a></h2>
 
 <h3 id="services-reviewer">Reviewer</h3>
+<p class="small" style="font-size:16px"> &#9670; <strong>2024: ISSRE Artifact Evaluation Committee </strong></p>
 <p class="small" style="font-size:16px"> &#9670; <strong>2024: ECOOP Artifact Evaluation Committee </strong></p>
 <p class="small" style="font-size:16px"> &#9670; <strong>2023: ISSTA Artifact Evaluation Committee </strong></p>
 
