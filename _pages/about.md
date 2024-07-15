@@ -18,7 +18,8 @@ I am Ming Yan, a SE Ph.D. candidate at [College of Intelligence and Computing, T
 
 📢 <font color="red" style="font-style:bold"><strong>I anticipate earning my Ph.D. by July 2025 and am actively seeking opportunities in academia or industry. Please feel free to contact me.</strong> </font>
 
-Find my [CV (in English)](https://github.com/user-attachments/files/16215313/Ming_s_Resume.pdf) \| [简历（中文）](https://github.com/user-attachments/files/16215314/_.pdf)
+Find my [CV (in English)](https://github.com/user-attachments/files/16215313/Ming_s_Resume.pdf) \| [简历（中文）](https://github.com/user-attachments/files/16229388/_.pdf)
+
 <br>
 <p class="small" style="font-size:16px">
 <font face="Times New Roman" style="font-style:italic">Email: yanming[at]tju[DOT]edu[DOT]cn</font> <br> <font face="Times New Roman" style="font-style:italic">Address:  Building #55,  College of Intelligence and Computing, Tianjin University Beiyangyuan Campus, No. 135 Yaguan Road, Jinnan District, Tianjin, 300350</font>
