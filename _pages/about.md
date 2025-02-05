@@ -25,6 +25,8 @@ Find my [CV (in English)](https://github.com/user-attachments/files/16215313/Min
 
 ## [News](#news) 
 
+📢 **Feb 5, 2025**: I have been selected as a member of the FSE 2025 Program Committee (AI IDE-track). Thanks for the recognition!
+
 📢 **Dec 9, 2024**: Our paper "Robustness Evaluation of Code Generation Systems via Concretizing Instructions" was accepted by IST.
 
 📢 **Sep 4, 2024**: I have been selected as a member of the ICSE 2025 Artifact Evaluation Committee. Thanks for the recognition! 
@@ -33,7 +35,7 @@ Find my [CV (in English)](https://github.com/user-attachments/files/16215313/Min
 
 📢 **Jan 6, 2024**: I have been selected as a member of the ECOOP 2024 Artifact Evaluation Committee. Thanks for the recognition! 
 
-📢 **Dec 3, 2023**: I have been selected as a member of the CCF ChinaSoft (2023) Outstanding Ph.D. Student Forum! 
+**Dec 3, 2023**: I have been selected as a member of the CCF ChinaSoft (2023) Outstanding Ph.D. Student Forum! 
 
 **Oct 20, 2023**: I received the Outstanding Contribution Award from the Huawei-Tianjin University Artificial Intelligence Innovation Lab for the deployment of the LMT technique in six Huawei chip design modules. Thanks for the recognition!
 
@@ -96,6 +98,7 @@ Find my [CV (in English)](https://github.com/user-attachments/files/16215313/Min
 <h2 id="services"><a href="#services">Academic Services</a></h2>
 
 <h3 id="services-reviewer">Conference Reviewer</h3>
+<p class="small" style="font-size:16px"> &#9670; <strong>2025: FSE Program Committee (AI IDE-track) </strong></p>
 <p class="small" style="font-size:16px"> &#9670; <strong>2025: ICSE Artifact Evaluation Committee </strong></p>
 <p class="small" style="font-size:16px"> &#9670; <strong>2024: ISSRE Artifact Evaluation Committee </strong></p>
 <p class="small" style="font-size:16px"> &#9670; <strong>2024: ECOOP Artifact Evaluation Committee </strong></p>
