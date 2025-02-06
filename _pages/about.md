@@ -106,7 +106,7 @@ Find my [CV (in English)](https://github.com/user-attachments/files/16215313/Min
 
 <h3 id="services-reviewer">Journal Reviewer</h3>
 <p class="small" style="font-size:16px"> &#9670; <strong>2025: Information and Software Technology </strong></p>
-<p class="small" style="font-size:16px"> &#9670; <strong>2025: IEEE Transactions on Software Engineering </strong></p>
+<p class="small" style="font-size:16px"> &#9670; <strong>2024: IEEE Transactions on Software Engineering </strong></p>
 
 <h3 id="services-co-reviewer">Co-Reviewer</h3>
 <p class="small" style="font-size:16px"> 
